@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.d-flex{
+    margin-left: auto;
+}
+.bg-body-tertiary{
+    background-color: #1d2344 !important;
+}
+/* navbar */
+/* banner */
+.banner{
+    background-color: #14182a;
+}
+.record{
+    color: #3bc8e7;
+}
+.banner p{
+    color: #606165;
+}
+.banner h2{
+margin-top: 120px;
+margin-bottom: 40px;
+}
+.ban-btn{
+    background-color: #3bc8e7;
+    border: none !important;
+    border-radius: 36px;
+    padding: 10px 20px;
+}
+/* banner */
+/* musiclist */
+.musiclist{
+    background-color: #14182a !important;
+}
+.musiclist p{
+    color: #ffffff;
+
+}
+.musiclist img{
+    border-radius: 16px;
+    
+}
+/* musiclist */
+/* musicbar */
+.musicbar{
+    background-color: #14182a;
+    color: white;
+}
+.bar-img{
+    border-radius: 8px;
+}
+.bar-row{
+    border-bottom: 1px solid #252b4d;
+    border-radius: 20px;
+}
+/* gallery */
+.gallery{
+    background-color: #14182a;
+    padding: 16px;
+
+}
+.gallery img{
+    border-radius: 8px;
+    height:350px;
+    width: 100%;
+}
+
+.first-img,.last-img{
+    height:370px;
+
+}
+.sub-col-row-1 img,.sub-col-row-2 img{
+height:165px;
+}
+.sub-col-row-1 img{
+    margin-bottom: 10px;
+
+}
+.sub-col-row-2 img{
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+}
+/* gallery */
+/* footer */
+footer{
+    background-color: #14182a;
+}
+.row h4 {
+    color: #3bc8e7;
+}
+.row p {
+    color: white;
+}
+/* footer */
+footer i{
+    background-color: #3bc8e7;
+    padding: 9px;
+    border-radius: 10px;
+}
+footer input{
+    width: 150px;
+}
+/* footer */
